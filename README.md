@@ -1,4 +1,4 @@
-# eSports Team Manager Backend
+# eHub - Eports Team Manager - Backend
 
 [![.NET](https://img.shields.io/badge/.NET-6.0-blue)](https://dotnet.microsoft.com/)
 [![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-brightgreen)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
